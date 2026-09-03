@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 export default defineConfig({
-  base: process.env.CF_PAGES ? '/' : '/Nirakshan.AI/',
+  base: process.env.GITHUB_ACTIONS ? '/Nirakshan.AI/' : '/',
   plugins: [react()],
 });
