@@ -1,39 +1,204 @@
-# NIRAKSHAN AI
+# NIRAKSHAN AI — Predict. Monitor. Act.
 
-NIRAKSHAN AI is an infrastructure project monitoring interface for identifying delivery risk, explaining key signals, raising early warnings, and guiding follow-up action.
+AI-powered predictive analytics and early-warning platform for infrastructure project monitoring.
 
-## Features
+---
 
-- Dashboard with portfolio health, risk summary and early-warning alerts
-- Searchable, filterable project portfolio with 12 realistic fictional projects
-- Detailed project risk view with cost, timeline, progress and milestone indicators
-- Risk and warning workspace with filters and project actions
-- Data-driven analytics charts
-- Local data-grounded assistant with working suggested questions
-- Configurable prototype risk layers kept separate from presentation components
+## 1. Project Information
 
-## Stack
+**Project Title:** NIRAKSHAN AI
 
-React, TypeScript, Vite, Recharts, and CSS.
+**PS ID:** SIH26103
 
-## Run locally
+**PS Title:** Use case on web-based integrated project-monitoring platform
 
-```bash
-npm install
-npm run dev
-```
+**Category:** Software
 
-Build a production bundle with `npm run build`.
+**Theme:** Smart Automation
 
-## Project structure
+**Organization:** Ministry of Statistics and Programme Implementation (MoSPI)
 
-```
-src/
-  data/projects.ts    # project model and fictional local dataset
-  main.tsx            # application views and reusable UI components
-  styles.css          # responsive product styling
-```
+---
 
-## Future backend and ML integration
+## 2. Problem Statement
 
-The present data and risk logic are local prototypes only. The application is structured so the project dataset can be replaced with a FastAPI/PostgreSQL service and the risk layer can later consume approved cost-overrun, delay, implementation-risk, anomaly-detection and explainability services. Environment variables should be used for any future external service endpoints; no keys or secrets are included.
+Large infrastructure projects need continuous monitoring of cost, expenditure, timelines, milestones and physical progress.
+
+The existing project-monitoring ecosystem contains valuable historical and current project information, but there is an opportunity to move beyond monitoring past and present status toward predicting future risks.
+
+The challenge is to identify projects that may experience:
+
+- Cost overruns
+- Time overruns
+- Implementation risks
+- Delays and emerging bottlenecks
+
+early enough so that appropriate corrective action can be considered.
+
+NIRAKSHAN AI addresses this challenge through predictive analytics, project risk scoring, early-warning alerts and explainable project intelligence.
+
+---
+
+## 3. Proposed Solution
+
+NIRAKSHAN AI is a web-based project intelligence and early-warning platform designed around project-monitoring data.
+
+The platform analyzes project-level information such as cost, expenditure, timelines and progress to provide:
+
+- Project risk scoring
+- Cost overrun risk assessment
+- Time overrun risk assessment
+- Implementation risk identification
+- Early-warning alerts
+- Project benchmarking
+- Risk-driver analysis
+- Project health monitoring
+- AI-assisted project intelligence
+
+The objective is to help monitoring teams identify potentially high-risk projects earlier and support data-driven decision-making.
+
+The platform is designed as a predictive and prescriptive layer that can complement existing project-monitoring systems.
+
+---
+
+## 4. Key Features
+
+### Project Dashboard
+
+- Overall project portfolio view
+- Total project count
+- High, medium and low-risk projects
+- Cost-risk indicators
+- Delay-risk indicators
+- Project health overview
+
+### Project Risk Scoring
+
+- Overall project risk score
+- Risk classification
+- Cost risk
+- Time/delay risk
+- Implementation risk
+
+### Early Warning System
+
+- Identification of potentially high-risk projects
+- Risk alerts
+- Risk severity indicators
+- Early identification of possible cost and schedule problems
+
+### Explainable Risk Analysis
+
+For a selected project, NIRAKSHAN AI provides:
+
+- Why the project is considered risky
+- Key risk drivers
+- Cost and progress indicators
+- Recommended actions
+
+### Analytics
+
+- Cost analysis
+- Progress analysis
+- Delay analysis
+- Project benchmarking
+- Risk distribution
+- Project-level trends
+
+### NIRAKSHAN AI Assistant
+
+An AI-assisted interface for project intelligence queries such as:
+
+- Which projects are at high risk?
+- Why is this project risky?
+- Which projects have cost risks?
+- Which projects are delayed?
+- What action should be considered for a risky project?
+
+---
+
+## 5. Technology Stack
+
+### Frontend
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### Data Visualization
+
+- Chart-based project analytics
+- Interactive dashboard components
+
+### AI / Machine Learning — Planned Architecture
+
+- Python
+- scikit-learn
+- XGBoost
+- SHAP
+- Statistical forecasting methods
+
+### Backend — Planned Architecture
+
+- Python
+- FastAPI
+
+### Database — Planned Architecture
+
+- PostgreSQL
+
+### Deployment
+
+- GitHub
+- Render
+
+The current prototype uses sample/demo data for demonstrating the platform workflow. Future versions can connect the predictive layer with authorized PAIMANA/OCMS datasets and backend services.
+
+Environment variables should be used for future external service endpoints and credentials. No API keys, passwords or secrets are included in this repository.
+
+---
+
+## 6. Architecture
+
+The proposed architecture separates the user interface, data layer, predictive analytics and AI assistant.
+
+```text
+                         NIRAKSHAN AI
+                              |
+                              v
+                       Web Dashboard
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+          v                   v                   v
+   Project Monitoring    Risk Analytics     AI Assistant
+          |                   |                   |
+          +-------------------+-------------------+
+                              |
+                              v
+                     Backend / API Layer
+                              |
+                              v
+                    Project Data Repository
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+          v                   v                   v
+    Historical Data     Current Data       Project Variables
+          |                   |                   |
+          +-------------------+-------------------+
+                              |
+                              v
+                  Predictive Analytics Layer
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+          v                   v                   v
+     Cost Risk           Time Risk       Implementation Risk
+                              |
+                              v
+                       Risk Score + Alerts
+                              |
+                              v
+                    Recommended Actions
