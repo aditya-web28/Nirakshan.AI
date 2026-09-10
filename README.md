@@ -6,6 +6,24 @@ AI-powered predictive analytics and early-warning platform for infrastructure pr
 WEBSITE DEMO LINK: **https://nirakshan-ai.onrender.com/**
 
 ---
+---
+
+## Team Details
+
+**Team Name:** NIRAKSHAN AI
+
+**Team Leader:** YOUR NAME — @YOUR_GITHUB_USERNAME
+
+**Team Members:**
+
+- YOUR NAME — @GITHUB_USERNAME
+- MEMBER 2 NAME — @GITHUB_USERNAME
+- MEMBER 3 NAME — @GITHUB_USERNAME
+- MEMBER 4 NAME — @GITHUB_USERNAME
+- MEMBER 5 NAME — @GITHUB_USERNAME
+- MEMBER 6 NAME — @GITHUB_USERNAME
+
+---
 
 ## 1. Project Information
 
