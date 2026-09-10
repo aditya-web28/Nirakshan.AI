@@ -205,10 +205,17 @@ The proposed architecture separates the user interface, data layer, predictive a
                               |
                               v
                     Recommended Actions
+```
+
+
+---
+
 
 ## 7. Repository Structure
 
 The repository contains the project source code, documentation, presentation material and demo resources.
+
+---
 
 ## 8. Documentation
 
@@ -216,9 +223,13 @@ The repository contains the project source code, documentation, presentation mat
 - `submission/DEMO.md` — Demo guide
 - `docs/architecture.md` — System architecture
 
+---
+
 ## 9. Screenshots
 
 Screenshots of the NIRAKSHAN AI prototype are included in the `submission` folder.
+
+---
 
 ## 10. Current Prototype
 
@@ -226,9 +237,13 @@ The current version demonstrates the project monitoring dashboard, project detai
 
 The prototype uses sample/demo data.
 
+---
+
 ## 11. Deployment
 
 **Live Demo:** https://nirakshan-ai.onrender.com/
+
+---
 
 ## 12. Project Status
 
