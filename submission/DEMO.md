@@ -9,7 +9,7 @@ https://nirakshan-ai.onrender.com/
 
 **Demo video link:**
 
-https://drive.google.com/file/d/120uo6xT_DAh84Ekf3v-3ZY_Hd0qPeIpj/view?usp=sharing
+https://drive.google.com/file/d/1wgYVFHJwowfh35knL_CXPxkzuCWkLjVQ/view?usp=sharing
 
 
 ## Demo Flow
