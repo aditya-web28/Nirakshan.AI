@@ -16,12 +16,12 @@ WEBSITE DEMO LINK: **https://nirakshan-ai.onrender.com/**
 
 **Team Members:**
 
-- Aditya Prasad — @aditya-web28
-- Hriday Yadav — @HridayYadav
-- Vedic Arya — @GITHUB_USERNAME
-- Sundihi — @sunidhig01
-- Yogesh Kumar — @GITHUB_USERNAME
-- Prabhat Ranjan — @GITHUB_USERNAME
+- Aditya Prasad — [@aditya-web28](https://github.com/aditya-web28)
+- Hriday Yadav — [@HridayYadav](https://github.com/HridayYadav)
+- Vedic Arya — [@vedicarya1028](https://github.com/vedicarya1028)
+- Sundihi — [@sunidhig01](https://github.com/sunidhig01)
+- Yogesh Kumar — [@yk9309905-cmd](https://github.com/yk9309905-cmd)
+- Prabhat Ranjan — [@bahubalicafe](https://github.com/bahubalicafe)
 
 ---
 
