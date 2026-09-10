@@ -166,7 +166,7 @@ Environment variables should be used for future external service endpoints and c
 
 The proposed architecture separates the user interface, data layer, predictive analytics and AI assistant.
 
-```text
+```
                          NIRAKSHAN AI
                               |
                               v
@@ -203,5 +203,12 @@ The proposed architecture separates the user interface, data layer, predictive a
                               v
                        Risk Score + Alerts
                               |
+aditya lodu
+
+
+
+
+
+
                               v
                     Recommended Actions
