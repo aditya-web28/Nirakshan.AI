@@ -12,16 +12,16 @@ WEBSITE DEMO LINK: **https://nirakshan-ai.onrender.com/**
 
 **Team Name:** NIRAKSHAN AI
 
-**Team Leader:** YOUR NAME — @YOUR_GITHUB_USERNAME
+**Team Leader:** Aditya Prasad — @aditya-web28
 
 **Team Members:**
 
-- YOUR NAME — @GITHUB_USERNAME
-- MEMBER 2 NAME — @GITHUB_USERNAME
-- MEMBER 3 NAME — @GITHUB_USERNAME
-- MEMBER 4 NAME — @GITHUB_USERNAME
-- MEMBER 5 NAME — @GITHUB_USERNAME
-- MEMBER 6 NAME — @GITHUB_USERNAME
+- Aditya Prasad — @aditya-web28
+- Hriday Yadav — @HridayYadav
+- Vedic Arya — @GITHUB_USERNAME
+- Sundihi — @sunidhig01
+- Yogesh Kumar — @GITHUB_USERNAME
+- Prabhat Ranjan — @GITHUB_USERNAME
 
 ---
 
