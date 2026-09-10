@@ -203,12 +203,42 @@ The proposed architecture separates the user interface, data layer, predictive a
                               v
                        Risk Score + Alerts
                               |
-aditya lodu
-
-
-
-
-
-
                               v
                     Recommended Actions
+
+## 7. Repository Structure
+
+The repository contains the project source code, documentation, presentation material and demo resources.
+
+## 8. Documentation
+
+- `submission/PRESENTATION.md` — Project presentation
+- `submission/DEMO.md` — Demo guide
+- `docs/architecture.md` — System architecture
+
+## 9. Screenshots
+
+Screenshots of the NIRAKSHAN AI prototype are included in the `submission` folder.
+
+## 10. Current Prototype
+
+The current version demonstrates the project monitoring dashboard, project details, risk analysis, analytics and NIRAKSHAN AI Assistant interface.
+
+The prototype uses sample/demo data.
+
+## 11. Deployment
+
+**Live Demo:** https://nirakshan-ai.onrender.com/
+
+## 12. Project Status
+
+**Working Prototype**
+
+Planned extensions include predictive ML models, backend services and authorized PAIMANA/OCMS data integration.
+
+
+                                                                                            
+
+
+
+
