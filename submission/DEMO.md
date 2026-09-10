@@ -5,7 +5,6 @@
 **Live Application:**  
 https://nirakshan-ai.onrender.com/
 
-##Demo Video
 
 **Demo video link:**
 
