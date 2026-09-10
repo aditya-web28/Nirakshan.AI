@@ -6,7 +6,9 @@
 https://nirakshan-ai.onrender.com/
 
 ##Demo Video
-watch the NIRAKSHAN AI Demo-
+
+**Demo video link:**
+
 
 ## Demo Flow
 
